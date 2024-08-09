@@ -4,11 +4,12 @@
 
 ## 系統安裝字型 IDAutomationCode39
 
-[IDAutomationCode39](https://www.idautomation.com/free-barcode-products/code39-font/) .
+- [IDAutomationCode39](https://www.idautomation.com/free-barcode-products/code39-font/) .
+- [Demo](https://peterhsj.github.io/code39TEST/) .
 
 ## Customize configuration
 
-- 先下載並安裝字型
+- 本機 或 server 必須先下載並安裝字型
 - 開啟 index.html 即可顯示條碼
 
 ## EPSON TM-T70II 印表機設定
