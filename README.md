@@ -2,10 +2,11 @@
 
 使用 code39 字型檔建立發票一維條碼
 
+- [Demo](https://peterhsj.github.io/code39TEST/) .
+
 ## 系統安裝字型 IDAutomationCode39
 
 - [IDAutomationCode39](https://www.idautomation.com/free-barcode-products/code39-font/) .
-- [Demo](https://peterhsj.github.io/code39TEST/) .
 
 ## Customize configuration
 
